@@ -20,12 +20,6 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação. Trabalho com 
 - **LinkedIn**: [Seu Nome](https://www.linkedin.com/in/carlos-cesar-santos-5716b6315/)
 - **Site Pessoal**: [www.seusite.com](https://www.seusite.com)
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula)
-
 ## Vamos Colaborar!
 
 Estou a procura de ajudar os outros com meus projetos, desenvolvedor full stack amador, dev junior a procura de uma oportunidade; Faço projetos por contato via E-mail.
