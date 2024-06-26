@@ -18,7 +18,6 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação. Trabalho com 
 
 - **E-mail**: [carloscjsantos24l@gmail.com](mailto:carloscjsantos24@gmail.com)
 - **LinkedIn**: [Seu Nome](https://www.linkedin.com/in/carlos-cesar-santos-5716b6315/)
-- **Site Pessoal**: [www.seusite.com](https://www.seusite.com)
 
 ## Vamos Colaborar!
 
